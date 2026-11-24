@@ -1,0 +1,10 @@
+.venv/
+.deps/
+__pycache__/
+*.pyc
+.env
+.env.*
+.state/
+*.cookies
+*.log
+*.html
